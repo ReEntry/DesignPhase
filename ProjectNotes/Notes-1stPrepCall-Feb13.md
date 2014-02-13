@@ -1,4 +1,3 @@
-
 Round the Horn on Perspectives on How Best to Move Forward:
 
 1. Dazza: Suggest we do the (now current first draft) statement in the GitHub repo PLUS a healthy amount of prototypes (MIT UROPS and partners etc) 
@@ -31,10 +30,16 @@ c) dash of what it would look like for the participants
 -
 - Identify grant funding and project - but is best thing for us to take it to funder soon?  to think it through and then take it to funding?  
 - Important to have a chairperson who has experience w/software dev who can indicate direction.
+SECOND: pass.
 
 5. Josh
 - Build a prototype is our outcome 
 - We need to be explicit about the applicable standards and requirements of the courts and stakeholders...
 
+SECOND:
+- Need an MVP that we can hand off to the judge... 
+- Also good idea to reach out to funders. 
+
 6. Eric 
--               
+- Not much to add right now... but it's important to ask 
+- Where will we find the devices?
