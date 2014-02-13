@@ -1,9 +1,8 @@
+# Next meeting: Tue, Feb 18, 4pm EST.  Cal w/Hangout Sent.
 
-Next meeting: Tue, Feb 18, 4pm EST.  Cal w/Hangout Sent.
+## Notes: [GitHub Notes](https://github.com/LegalScience/ReEntry/blob/master/ProjectNotes/Notes-1stPrepCall-Feb13.md)
 
-Notes: [GitHub Notes](https://github.com/LegalScience/ReEntry/blob/master/ProjectNotes/Notes-1stPrepCall-Feb13.md)
-
-Next Steps:
+# Next Steps:
 
 
  #1: Draft "Project Plan"
