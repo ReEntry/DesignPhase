@@ -2,16 +2,15 @@ Re-Entry - “Sidekick” Tools to Reduce Recidivism
 
 # Table of Contents: 
 
-Project Team
-Problem Description
-Project/Application Summary
-Design Phase Catalyst Support
-Background
-Application Description
-Timeline
-Next Steps
-Parking Lot, Issues, Notes, Etc:
-Privacy Issues
+* Project Team
+* Problem Description
+- Project/Application Summary
+- Design Phase Catalyst Support
+- Background
+- Application Description
+* Timeline
+* Next Steps
+* Parking Lot, Issues, Notes, Etc:
 
 # Project Team
 
@@ -90,9 +89,23 @@ In this module the individual will have access to a calendaring function. The pa
 
 The court or parole officer-facing module will provide the parole officer with real-time insight into the activities and progress of the individual. Most if not all information visible to the individual in the application will be visible to the parole officer, including the individual’s use of the application and activity. The parole officer module will be combined with “big data” analytics across all program participants and other criminogenic research to try and discern when certain activities by a specific individual in the program may indicate a likelihood for that individual to violate the conditions of their parole. This will give the courts and parole officer an opportunity to intervene in strategic instances to try to support the individual and help to reduce recidivism.  
 
-## Development:
+# Development:
 
-The application will be developed using an API-Based Open Network. This will allow for continued development in a distributed fashion and customization to the specific requirements of federal, state, and local courts. The application will be device agnostic/web applications.
+## Open Research Project
+
+Please note, the MIT Media Lab Computational Legal Science research team is providing facilitation and convening support for the Design and Rapid Prototype phase as one of our discretionary/volunteer "Open Research Projects".  This means that we are not charging money or requiring an exisitng research sponsor of the lab to support the activity, but all of our work and contributions are provided under open source free software licenses and creative commons free copyright licenses and all project materials that are contributed under the auspicies of the MIT convening are considered public, non-confidential and are openly accessible on our web site and/or in our GitHub repositories.  
+
+The the extent confidential, secret, private or otherwise access restricted resources are needed or expected as part of work on the ReEntryApp, please be careful not to include those materials in the GitHub repository or to provide them to MIT research or other staff or otherwise to contribute those materials to the GitHub or websites set up by MIT to support this project durign the Design and Rapid Prototype Phase.  However, at the conclusion of this phase, when MIT and the Project Team hand over the materials, repositories and other resources to the Stakeholder Committee, then you may wish to choose other ways to handle intellectual property, confidentiality agreements or other aspects of access control with respect to the project content transmitted as a deliverable.  During this Design and Rapid Prototype Phase, please simply be careful to use other channels for transmission or storage of non-open resources.
+
+## Open Architecture
+
+It is expected that the code comprising the rapid prototuype during the initial phase of this project will leverage existing open source code or will be developed as new code under an open source license.  Similarly, the design phase will focus upon how open source licensing (both with software open source licenses and also for other content using Creative Commons or consistent licenses).  
+
+Likewise, the focus will be on using (and where needed extending or profiling) open standards and open formats for data, interactions, services and other aspects of the project.  
+
+It is expected that the application and related host platforms and services will be developed around an Open Network approach using REST/API accessible service ports, busses and/or other interfaces.  The app can, using this approach, eventually become device agnostic as a mobile web application.  
+
+This approach to the conherent and consistent use of open source, open licensing, open standards, open formats and open interface together comprise what can be thought of as an "Open Architecture".  This will allow for continued development in a distributed fashion and customization to the specific requirements of federal, state, and local courts. 
 
 ## Types of Data and Key Interactions
 
