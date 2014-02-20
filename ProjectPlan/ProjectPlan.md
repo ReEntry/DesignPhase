@@ -110,6 +110,8 @@ Examples of discrepancy data: Participant has been assigned the compliance task 
 
 Judge Aiken convenes and chairs and membership consists of appropriate members of key stakeholder group.  
 
+A preliminary directory and placeholder page with more information has been provisioned for this group, at: [https://github.com/LegalScience/ReEntry/blob/master/StakeholderCommittee/Overview.md](https://github.com/LegalScience/ReEntry/blob/master/StakeholderCommittee/Overview.md).  
+
 ## Members 
 
 Members of the Stakeholder Committee are expected to includes people of the following groups:
@@ -120,6 +122,9 @@ Members of the Stakeholder Committee are expected to includes people of the foll
 - Participants
 
 ## Expert Advisory Group
+
+A placeholder page for more information has been provisioned for this group, at: 
+[https://github.com/LegalScience/ReEntry/blob/master/StakeholderCommittee/ExpertAdvisoryPanel.md](A preliminary directory and placeholder page with more information has been provisioned for this group, at:)
 
 A SubCommittee, Task Force or other invited group supporting the project team and Stakeholder Committee is expected.  This group is anticipated to include top legal, technical, administrative and subject matter experts who are willing to provide hand-on feedback and/or direct assistance to the project team and/or the Stakeholder Committee focused on successful achievement of the goals and outcomes intended for the design phase.  
 
