@@ -1,5 +1,13 @@
 Re-Entry App – A Technology System to Reduce Recidivism
 
+#Key Reactions
+
+> There is much good content and many great new ideas introduced in this document.  However, the document needs a lot of work before it is ready for distribution.  Among other things, it is urgent to avoid inviting expectations that this rapid prototype and design phase is intended to result in a system that will be suited for operation in the regular course of business  Perhaps the concept of a prototype is unfamiliar.  Mission critical interactions, sensitive data or important operations should never rely upon a prototype and in fact, the code developed for a prototype should be expected to be replacable or refactored to achieve production-grade purposes and meet minimum performance metrics.  A thoughtful rapid prototype can, however, be a profound business value when developed through an iterative process with the stakeholders.  A prototype, when iteratived as part of a well crafted design phase, can help to surface goals, objectives, success metrics, functions, flows and other particulars that would otherwise never be considered, discussed, agreed or developed.  
+
+> Consider carefully the relevance of the delta between this document and the current [project plan](https://github.com/ReEntry/DesignPhase/blob/master/ProjectPlan/ProjectPlan.md).  The language in our current [project plan](https://github.com/ReEntry/DesignPhase/blob/master/ProjectPlan/ProjectPlan.md) states that the deliverable will be: **"A prototype file demonstrating the user experience and other key featured, functions and flows of the App (this may be based on interactive wireframes or may include working code)."**  Similarly, the remarks of K Krasnow Waterman were **"Consider changing the first sentence in the project summary from 'Project funding for development and efforts past v1 will largely come from outside sources.' to 'Project funding for MVP development and efforts past v1 will largely come from outside sources.'  In it’s current form, I thought it was a promise to produce an MVP without funding."**  K's view and the existing current project plan accurately reflect the agreed and appropriate degree of committment to technical outcomes and business results that can reasonably be expected at the conclusion of the design and rapid prototype phase.  
+
+> The language of this document might be appropriate for inclusion in a scope of work under negotiated development contract or perhaps as part of a grant funded project plan after rounds of requirements elicitation and mutual agreement of the key parties.  It is not a good fit for the current state of understanding and agreement of stakeholder scenarios of use nor reflective of what will (one hopes) be a period of deliberate reflection and creative adaptation of designs to meet the stakeholders needs in the best possible way. 
+
 **Background**
 
 In recent years Judge Aiken, Chief Judge of the U.S. District Court for the District Court of Oregon, has implemented an innovative re-entry program in which all parties to the criminal justice system collaborate with the re-entering individual to try to reduce recidivist behavior. Participants in this program have demonstrated a 16% reduction in recidivism as compared with participants in standard re-entry programs. This innovative program is based upon limiting the following five criminogenic factors that correlate to increased recidivism. Specifically:
@@ -20,25 +28,29 @@ The project team will manage the development of a technological component of or 
 
 The system will serve 4 broad criminal justice and recidivism prevention purposes:
 
+> It is premature to conclude these specific and exclusive purposes. 
+
 1. **Education.** 
 
 The system will serve as a tool to educate program participants on the use of technology, access to resources to help in their reentry process, career development resources, and other key information.
 
-1. **Public Safety.** 
+2. **Public Safety.** 
 
 The system will serve as a public safety tool by making it easier for parole officers to track and identify parolees and reentrants who need immediate assistance before they reoffend.
 
-1. **ReEntrant** **Empowerment.** 
+3. **ReEntrant** **Empowerment.** 
 
 The program will empower program participants by providing them with real-time access to information about their reentry process in a manner that is easily understood and utilized. For example, participants will be able to easily and clearly track their urinalysis results over an extended period of time. Similarly, participants will have ready, immediate, and meaningful access to information regarding their success in meeting court dates, parole officer meetings, and substance abuse support group meetings.
 
-1. **Resource Allocation.** 
+4. **Resource Allocation.** 
 
 On both a small and larger scale, the system will allow jurisdictions to measure their reentry efforts and successes thereby enabling them to allocate resources more efficiently.
 
+
+
 **Project System Components**
 
-When implemented, the system will have two key components: (1) a participant-side application (likely in the form of a mobile device), and, (2) a parole officer-side module – likely in the form of a PC dashboard (which may or may not have an associated mobile application or component).
+It is envisioned that when implemented, the system will have two key components: (1) a participant-side application (likely in the form of a mobile device), and, (2) a probation or parole officer-side application – to provide communications, management and dashboard functionality.  
 
 The system will be designed to track, measure, and analyze the five following criminogenic factors which when more prevalent are more likely to result in increased criminal behavior.
 
@@ -48,14 +60,16 @@ The system will be designed to track, measure, and analyze the five following cr
 1. Family Environment
 1. Employment
 
-_Parole Officer-Side:_ The court or parole officer-facing module will provide the parole officer with real-time insight into the activities and progress of the individual. Most if not all information visible to the individual in the application will be visible to the parole officer, including the individual’s use of the application and activity. The parole officer module will be combined with “big data” analytics across all program participants and other criminogenic research to try and discern when certain activities by a specific individual in the program may indicate the likelihood for that individual to violate the conditions of their parole. This will give the courts and parole officer an opportunity to intervene in strategic instances to try to support the individual and help to reduce recidivism. 
+_Probation or Parole Officer-Side:_ The court or parole officer-facing module will provide the parole officer with real-time insight into the activities and progress of the individual. Most if not all information visible to the individual in the application will be visible to the parole officer, including the individual’s use of the application and activity. The parole officer module will be combined with “big data” analytics across all program participants and other criminogenic research to try and discern when certain activities by a specific individual in the program may indicate the likelihood for that individual to violate the conditions of their parole. This will give the courts and parole officer an opportunity to intervene in strategic instances to try to support the individual and help to reduce recidivism. 
 
 _Participant-Side:_ The participant-side application will likely take the form of a mobile application on the Android platform. While the overall application design is still TBD, the project team sketched out a proposed specification that is included as an attachment to this document. 
 
 **Application Versions**
 
 At this point, the project team sees two project versions: a first version or “v1” and all subsequent versions “vNext.”
-_Development of v1:_ The v1 system will represent a prototype or minimum viable product (“MVP”). It will incorporate the basic functionality that the steering committee (or the most minimally viable version of this committee as can be quickly organized) identifies as key to a basic version of the system. This version will be developed either at a hackathon at MIT or through MIT-identified resources. Upon completion of the v1, the project team will formally transition ownership of the project to the Steering Committee.
+
+_Development of v1:_ 
+ The v1 system will represent a prototype or minimum viable product (“MVP”). It will incorporate the basic functionality that the steering committee (or the most minimally viable version of this committee as can be quickly organized) identifies as key to a basic version of the system. This version will be developed either at a hackathon at MIT or through MIT-identified resources. Upon completion of the v1, the project team will formally transition ownership of the project to the Steering Committee.
 
 _Development of_ _vNext:_ vNext represents all versions of development after completion of v1 and delivery of v1 to the Steering Committee. Anticipated plans for vNext versions include deeper data analytics, implementing guidance on Web 2.0 and key internet technology guidance from Technology Expert Committee, and counseling with and deriving greater information from the Criminal Justice Expert Advisory Panel. vNext versions will be completed on project partners’ individual time, by community members interested in the project, through hackathon or other volunteer or mission-driven activities, or paid for with funds raised to support ongoing development of the project.  	 
 
