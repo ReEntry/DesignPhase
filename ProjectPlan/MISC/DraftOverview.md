@@ -130,3 +130,42 @@ This tab will provide the individual with access to text functionality to parole
 **Schedule:**
 
 In this module the individual will have access to a calendaring function. The parole officer or other official will be able to push calendaring events to the individual’s application. Pushed events will include random and scheduled urinalysis appointments, counseling visits (both group and individual), family visitation opportunities (if applicable), court dates, probation “check-in” appointments and others. The individual will also be able to schedule their own events. The receipt of push notifications will be made prominently visible throughout the application UI and reminders for important events will also surface on the homescreen and, possibly, in other places in the app.
+
+
+------------
+
+
+**ReEntry** **App – Project Timeline as of 3/22/14**
+As currently envisioned the project has three key phases: (1) Initial/MVP Development, (2) Promotion and Further Incubation, (3) vNext
+Phase 1 is already ongoing and will conclude on 6/30/14. Phase 2 will conclude by 8/30/14. Phase 3 begins at the end of Phase 2 and continues indefinitely. 
+1. **Phase 1:** **Initial/MVP** **Development.** 
+**Timing**: Continuing until 6/30/14
+1.1. **Empanel** **Minimally Viable** **Steering Committee: March 25, 2013 to April 15, 2014
+1.1.1. **Empanel Minimally Viable** **Steering Committee:** Identify and organize minimally viable steering committee in order to schedule and hold kick-off to support upcoming coding via hackathon or otherwise.
+1.1. **Kick-off:** By April 30, 2014
+1.1.1. Schedule and hold a kick-off meeting with existing minimally viable steering committee to establish project design, confirm schedule and otherwise direct project.
+1.1. **Develop**: May 2014
+1.1.1. Development will be conducted at MIT at either a hackathon or through other similar means.
+1.1. **Delivery:** No later than June 30, 2014
+1.1.1. **Final Presentation and Opportunity for Pilot-Phase Launch**
+1.1.1. **Account transfer and ownership assignment of the** **GitHub** **Project**. All project data (both public and private) including work flow (i.e. via issues tickets, authorization roles for accounts of contributors and other participants, open source licenses, etc) will be transitioned to Steering Committee or its designee.
+1.1.1. **Hand-Off.** The hand-off will include a Google Hangout for a “final presentation” using slides, screen share, video and/or other online methods to walk through the deliverables and repositories, discuss/questions.
+
+1. **Phase2:** **Promotion and Further Incubation.**
+**Timing**: 6/30/14 – 8/10/14
+1.1. **Continuing Development of the Steering Committee.** The minimally viable steering committee is filled out. New members provide guidance on overall direction for continuing development and broader adoption for the project.
+1.1. **The Criminal Justice Expert Panel is Fleshed Out.**
+1.1. **The Technology Expert Panel is Fleshed Out**
+1.1. **Ongoing Promotion.** The Project Team will hold a 1x weekly Google Hangout on the project and continue to promote it in anticipation of ABA Access to Justice Hackathon
+1.1. **Funding.** Project members may work with existing committees to identify and submit applications for funding opportunities. 
+1.1. **Hackathon** **Presence.** The project will have _some_ presence at the ABA Access to Justice Hackathon currently scheduled to coincide with the ABA Annual Meeting in Boston in early August. The hackathon will be held at Suffolk University School of Law.
+
+1. **Phase 3:** **vNext**
+
+**Timing**: 8/10/14 and beyond
+
+1.1. Big data possibilities of project are explored
+1.1. Depending upon success of funding efforts, different technological aspects of project are explored
+1.1. Continued promotion for broader adoption
+1.1. Ongoing fundraising
+1.1. Participation at further hacking events is explored.
