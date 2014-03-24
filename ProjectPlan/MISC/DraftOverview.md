@@ -134,30 +134,54 @@ In this module the individual will have access to a calendaring function. The pa
 
 ------------
 
+# Timing
+
 
 **ReEntry** **App – Project Timeline as of 3/22/14**
+
 As currently envisioned the project has three key phases: (1) Initial/MVP Development, (2) Promotion and Further Incubation, (3) vNext
+
 Phase 1 is already ongoing and will conclude on 6/30/14. Phase 2 will conclude by 8/30/14. Phase 3 begins at the end of Phase 2 and continues indefinitely. 
+
 1. **Phase 1:** **Initial/MVP** **Development.** 
+
 **Timing**: Continuing until 6/30/14
+
 1.1. **Empanel** **Minimally Viable** **Steering Committee: March 25, 2013 to April 15, 2014
+
 1.1.1. **Empanel Minimally Viable** **Steering Committee:** Identify and organize minimally viable steering committee in order to schedule and hold kick-off to support upcoming coding via hackathon or otherwise.
+
 1.1. **Kick-off:** By April 30, 2014
-1.1.1. Schedule and hold a kick-off meeting with existing minimally viable steering committee to establish project design, confirm schedule and otherwise direct project.
+
+1.1.1. Schedule and hold a kick-off meeting with existing minimally viable steering committee to 
+establish project design, confirm schedule and otherwise direct project.
+
 1.1. **Develop**: May 2014
+
 1.1.1. Development will be conducted at MIT at either a hackathon or through other similar means.
+
 1.1. **Delivery:** No later than June 30, 2014
+
 1.1.1. **Final Presentation and Opportunity for Pilot-Phase Launch**
+
 1.1.1. **Account transfer and ownership assignment of the** **GitHub** **Project**. All project data (both public and private) including work flow (i.e. via issues tickets, authorization roles for accounts of contributors and other participants, open source licenses, etc) will be transitioned to Steering Committee or its designee.
+
 1.1.1. **Hand-Off.** The hand-off will include a Google Hangout for a “final presentation” using slides, screen share, video and/or other online methods to walk through the deliverables and repositories, discuss/questions.
 
 1. **Phase2:** **Promotion and Further Incubation.**
+
 **Timing**: 6/30/14 – 8/10/14
+
 1.1. **Continuing Development of the Steering Committee.** The minimally viable steering committee is filled out. New members provide guidance on overall direction for continuing development and broader adoption for the project.
+
 1.1. **The Criminal Justice Expert Panel is Fleshed Out.**
+
 1.1. **The Technology Expert Panel is Fleshed Out**
+
 1.1. **Ongoing Promotion.** The Project Team will hold a 1x weekly Google Hangout on the project and continue to promote it in anticipation of ABA Access to Justice Hackathon
+
 1.1. **Funding.** Project members may work with existing committees to identify and submit applications for funding opportunities. 
+
 1.1. **Hackathon** **Presence.** The project will have _some_ presence at the ABA Access to Justice Hackathon currently scheduled to coincide with the ABA Annual Meeting in Boston in early August. The hackathon will be held at Suffolk University School of Law.
 
 1. **Phase 3:** **vNext**
@@ -165,7 +189,63 @@ Phase 1 is already ongoing and will conclude on 6/30/14. Phase 2 will conclude b
 **Timing**: 8/10/14 and beyond
 
 1.1. Big data possibilities of project are explored
+
 1.1. Depending upon success of funding efforts, different technological aspects of project are explored
+
 1.1. Continued promotion for broader adoption
+
 1.1. Ongoing fundraising
+
 1.1. Participation at further hacking events is explored.
+
+
+-------
+
+# Participants
+
+
+ReEntry App – Project Participants
+
+The project consists of four main committees: 
+
+## 1)	Stakeholder Committee: 
+
+This committee will oversee development of the project. The stakeholder committee will be the ultimate “recipient” and owner of the project and will see to its long-term management and adoption. This committee will be very quickly and leanly staffed for the v1 version of the project but will be filled out as necessary into vNext versions.
+
+a.	Members: 
+
+i.	Chair: The stakeholder committee will likely be chaired by Judge Ann Aiken of the Oregon Federal District Court.
+
+ii.	Mark Sherman 
+
+## 2)	Project Team:
+
+The project team will see development of the project through, at least, the initial design and prototyping of the project. The project team has the longest-standing relationship with the project.  The project committee will also likely include the developers who will do some of the heavy lifting in actually coding the project. Upon development of v1 of the project the Project Committee will cease its organized day-to-day activities and continue on an ad hoc basis.
+
+a.	Dan Lear
+
+b.	Lina Kaisey
+
+c.	Joyce Searles
+
+d.	Joshua Lenon
+
+e.	K. Krasnow Waterman
+
+f.	Eric Adler
+
+g.	Dazza Greenwood 
+
+h.	Development resources
+
+## 3)	Expert/Advisory Committee: 
+
+This committee will provide guidance and feedback on specific aspects of the project as may be needed in development and roll-out. The sole committee member of this project at this time is Rebecca Henshaw, Judge Aiken’s deputy. This panel will consist of experts to advise the project team on the application itself. We expect that these will be individuals familiar with principles underlying the application such as the reentry/parole process, data privacy, rehabilitation, professional development, mental health and others.
+
+a.	Rebecca Henshaw – Judge Aiken’s deputy has been identified as the main member of this committee.
+
+## 4)	Web/Technology Expert/Advisory Committee:  
+
+This committee will provide guidance on specific technological and web 2.0 topics in order to make the project as technologically sound and effective as possible.
+
+
