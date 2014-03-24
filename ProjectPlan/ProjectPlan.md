@@ -143,9 +143,9 @@ A SubCommittee, Task Force or other invited group supporting the project team an
 
 # Timeline and Milestones
 
-## Approximately 3 month Design Phase
+## Tentatively Expected to be Approximately 3 Month Design Phase
 
-Early March 2014 – Early May 2014
+March 2014 – May 2014
 
 ## Milestone: End-Phase Deliverables:
 
@@ -165,10 +165,42 @@ Early March 2014 – Early May 2014
 
 The markdown file describing a conceptual design architecture and proposed future roadmap for ReEntryApp will also include the then current feedback from the Stakeholder Committee qnd best effort recommendations by the Project Team on the subsequent phases for future development and deployment of ReEntryApp.
 
+## PHASES
+
+As currently envisioned the design and rapid prototype project has three key phases: 
+
+Prepatory Organizational and Initialization Phase (February 8th - Kick-Off)
+
+* Phase 1: Kick-off
+
+Commences with: Initial Meeting of Steering, Expert and Project Team Groups and Agreement on More Detailed Project Plan
+
+Creates: Initial Design and Rapid Prototype Development Iterations Through Informal Feedback Sessions, GitHub Issues, Weekly Hangouts, etc
+
+Concludes With: Mid-Project Presentation to Stakeholder and Expert Panels
+
+* Phase 2:  Review of Design Concept and First Stable Prototype
+
+Commences With: Steering and Expert Committee Review and Feedback to Project Team on Mid-Project Presentation
+
+Creates: Refined or Revised design concept and corresponding updates to prototype, likely more targeted testing focused on key feedback, criper definition of post design-phase implementation issues and options
+
+Concludes with: Final Presentation to Stakeholder and Expert Panels
+
+* Phase 3: Hand-off of Prototype and Launch of Pilot or Production Projects
+
+Commences with: Project Team Hand-Off of Project to Steering Cmt
+
+Creates: Collaboratively Developed Transition to Pilot or Production Teams, Stakeholder Engagement and Resource Gathering Plan
+
+Concludes with: Launch Event(s) 
+
+* Post-Launch Steering Cmt Pitches/Proposes for Funding and other Resources; Press/Media, Assist Projects Uptake
+
+
 # Next Steps
 
-Dan Emails Judge Aiken w/Draft end of day, and that we’ll get her a proper draft end of week or over weekend.  Purpose: request is she can join Tue 25th, 4pm EST or other time with her.  
-Request day/time we can go through this doc (the plan), timing and get feedback on “Kick-Off” date to start the agile design phase. 
+Phone call with Judge Aiken and Mark Sherman on March 25th to discuss how best to launch and manage the design phase.
 
 * Specifically ask: Who should be on panel? 
 
