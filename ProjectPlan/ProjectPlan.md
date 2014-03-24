@@ -141,7 +141,7 @@ A placeholder page for more information has been provisioned for this group, at:
 
 A SubCommittee, Task Force or other invited group supporting the project team and Stakeholder Committee is expected.  This group is anticipated to include top legal, technical, administrative and subject matter experts who are willing to provide hand-on feedback and/or direct assistance to the project team and/or the Stakeholder Committee focused on successful achievement of the goals and outcomes intended for the design phase.  
 
-# Timeline and Milestones
+# Tentative Project Timeslines and Phases
 
 ## Tentatively Expected to be Approximately 3 Month Design Phase
 
@@ -165,11 +165,11 @@ March 2014 – May 2014
 
 The markdown file describing a conceptual design architecture and proposed future roadmap for ReEntryApp will also include the then current feedback from the Stakeholder Committee qnd best effort recommendations by the Project Team on the subsequent phases for future development and deployment of ReEntryApp.
 
-## PHASES
+## Phasing and Staging
 
 As currently envisioned the design and rapid prototype project has three key phases: 
 
-Prepatory Organizational and Initialization Phase (February 8th - Kick-Off)
+Staging for Kick-off with Organizational and Initialization Phase (February 8th - Kick-Off)
 
 * Phase 1: Kick-off
 
@@ -195,7 +195,7 @@ Creates: Collaboratively Developed Transition to Pilot or Production Teams, Stak
 
 Concludes with: Launch Event(s) 
 
-* Post-Launch Steering Cmt Pitches/Proposes for Funding and other Resources; Press/Media, Assist Projects Uptake
+* Staging for Transition to Pilots and Production: Steering Cmt Pitches/Proposes for Funding and other Resources; Press/Media, Project Team May Continue to Volunteer in Different Capacity eg to Further Iterate and Assist Projects Uptake
 
 
 # Next Steps
