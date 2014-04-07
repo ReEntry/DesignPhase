@@ -13,4 +13,4 @@ Internal Links:
 
 * [Dan's](https://github.com/ReEntry/DesignPhase/blob/master/MediaCoverage/Dan.md) file
 * Becca's file
-* Dazza's file
+* [Dazza's](https://github.com/ReEntry/DesignPhase/blob/master/MediaCoverage/dazza-file.md) file
