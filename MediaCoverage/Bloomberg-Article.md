@@ -7,4 +7,4 @@ Here is the [link](http://www.businessweek.com/articles/2014-04-07/an-app-to-tur
 
 # GitHub Tutorial
 
-Here is the page: [https://help.github.com/articles/github-flavored-markdown](https://help.github.com/articles/github-flavored-markdown)
+Here is the page: [link](https://help.github.com/articles/github-flavored-markdown)
