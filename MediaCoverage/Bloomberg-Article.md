@@ -8,3 +8,9 @@ Here is the [link](http://www.businessweek.com/articles/2014-04-07/an-app-to-tur
 # GitHub Tutorial
 
 Here is the page: [click this link right here](https://help.github.com/articles/github-flavored-markdown) the words before this are linked to (https://github.com/ReEntry/DesignPhase/blob/master/MediaCoverage/becca.md)
+
+Internal Links:
+
+* [Dan's](https://github.com/ReEntry/DesignPhase/blob/master/MediaCoverage/Dan.md) file
+* Becca's file
+* Dazza's file
