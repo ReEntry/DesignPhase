@@ -1,4 +1,3 @@
-
 **NOTE: THIS IS A *DRAFT* DOCUMENT.** It is intended solely for discussion purposes and does not represent any specific obligation for any party involved. It's main purpose is to try to document the current trajectory of the project and spur discussion about short and long term activities and goals. 
 
 # Summary
@@ -12,7 +11,7 @@ This new document will hopefully establish a clearer, mutually agreeable, vision
 # Development
 This project will be an "open research project" (at least in so far as MIT is involved, and, ideally, for the entirety of the project) and will adopt an open architecture approch to development. Details on development and architecture can be found in Appendix A to this document.
 
-# Project Stages.
+# Project Stages
 
 The project team sees three distinct project stages through which the project will progress over the next 6-12 months. 
 
